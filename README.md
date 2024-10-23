@@ -1,1 +1,1 @@
-# covid_data_exploratory_sql
+# covid_data_exploration_sql
