@@ -4,10 +4,8 @@ In this project, I imported the COVID-19 infection and vaccination dataset from 
 
 Table of Contents
 Dataset
-Project Structure
 Objectives
 Tools & Technologies
-SQL Queries
 Results
 
 Dataset
@@ -15,10 +13,6 @@ The dataset for this project was sourced from the WHO COVID-19 Dashboard. It inc
 Daily and cumulative COVID-19 infection cases
 Daily and cumulative vaccination numbers
 Information broken down by country, region, and date
-Project Structure
-SQL_Queries.sql: Contains all the SQL queries used in this project for data transformation and analysis.
-Results.md: A summary of key findings from the analysis.
-README.md: This file, providing an overview of the project.
 
 Objectives
 The main objectives of this project are:
@@ -34,3 +28,10 @@ Tools & Technologies
 SQL: For querying and transforming the dataset
 WHO COVID-19 Dataset: Sourced directly from the WHO
 DBMS: Any relational database system supporting SQL (PostgreSQL)
+
+Results
+The exploratory data analysis provided the following insights:
+
+Global Trends: Infection and vaccination rates over time.
+Top Countries: Countries leading in vaccination coverage and those with high infection rates.
+Correlations: Identified trends and potential correlations between vaccination and infection rates.
